@@ -2,6 +2,7 @@
 无人艇导航制导控制仿真平台搭建
 mySim
 1. 下载到本地
-2. 进入build文件夹,执行命令 cmake ..
-3. 执行命令 make
-4. 执行命令 ./bin/test
+2. 配置环境（包含matplotlibcpp库文件、eigen3库文件）
+3. 进入build文件夹,执行命令 cmake ..
+4. 执行命令 make
+5. 执行命令 ./bin/test
