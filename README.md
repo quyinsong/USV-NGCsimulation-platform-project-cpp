@@ -6,3 +6,6 @@ mySim
 3. 进入build文件夹,执行命令 cmake ..
 4. 执行命令 make
 5. 执行命令 ./bin/test
+
+mysim_v1
+和上一个版本相比，在comfun.h和comfun中增加了myWAMVplot类方法，用于绘制双体船模型
