@@ -1,0 +1,3 @@
+/home/qys/mySim/build/CMakeFiles/rebuild_cache.dir
+/home/qys/mySim/build/CMakeFiles/edit_cache.dir
+/home/qys/mySim/build/CMakeFiles/test.dir
