@@ -9,3 +9,6 @@ mySim
 
 mysim_v1
 和上一个版本相比，在comfun.h和comfun中增加了myWAMVplot类方法，用于绘制双体船模型
+
+mysim_v2和myGui_v2
+两者搭配实现无人艇运动仿真与上位机监控功能
