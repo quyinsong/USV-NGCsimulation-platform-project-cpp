@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ManCtrDialog</class>
+ <widget class="QDialog" name="ManCtrDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <widget class="QWidget" name="widget" native="true">
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="1">
+       <widget class="QPushButton" name="up_btn">
+        <property name="text">
+         <string>up</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QPushButton" name="left_btn">
+        <property name="text">
+         <string>left</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QPushButton" name="right_btn">
+        <property name="text">
+         <string>right</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QPushButton" name="down_btn">
+        <property name="text">
+         <string>down</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="up_btn_2">
+     <property name="text">
+      <string>close</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
